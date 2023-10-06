@@ -26,8 +26,8 @@
 
 I am a Full-Stack developer from London.
 
-- 🔭 I’m currently working on freelance web development and ecommerce projects, using HTML, CSS, JavaScript and WordPress.
-- 🌱 Exploring React.js and blockchain decentralised applications
+- 🔭 I’m currently working on backend risk software and web development projects.
+- 🌱 Exploring Kotlin, React.js and blockchain decentralised applications
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-cjntifo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cjntifo/)
 
 ---
@@ -35,11 +35,12 @@ I am a Full-Stack developer from London.
 ### :hammer_and_wrench: Languages and Tools:
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <!--  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
